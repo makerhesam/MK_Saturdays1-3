@@ -1,0 +1,162 @@
+{
+    "Canada": {
+        "Capital": "Ottawa",
+        "Largest City": "Toronto",
+        "Total Area": 9984670.0,
+        "Landmarks": ["CN Tower", "Banff National Park", "Niagara Falls"],
+        "Cultural Highlights": ["Hockey", "Maple Syrup", "Canada Day Celebrations"],
+        "Daily Life": ["Enjoying outdoor activities", "Celebrating multicultural festivals", "Skiing in winter"]
+    },
+    "United States": {
+        "Capital": "Washington, D.C.",
+        "Largest City": "New York City",
+        "Total Area": 9833517.0,
+        "Landmarks": ["Statue of Liberty", "Grand Canyon", "Mount Rushmore"],
+        "Cultural Highlights": ["Hollywood", "Thanksgiving", "Jazz music"],
+        "Daily Life": ["Shopping at malls", "Driving long distances", "Eating fast food"]
+    },
+    "Brazil": {
+        "Capital": "Brasília",
+        "Largest City": "São Paulo",
+        "Total Area": 8515767.0,
+        "Landmarks": ["Christ the Redeemer", "Amazon Rainforest", "Sugarloaf Mountain"],
+        "Cultural Highlights": ["Carnival", "Samba music", "Soccer"],
+        "Daily Life": ["Drinking coffee", "Dancing samba", "Visiting beaches"]
+    },
+    "India": {
+        "Capital": "New Delhi",
+        "Largest City": "Mumbai",
+        "Total Area": 3287263.0,
+        "Landmarks": ["Taj Mahal", "Golden Temple", "Qutub Minar"],
+        "Cultural Highlights": ["Bollywood", "Diwali Festival", "Yoga"],
+        "Daily Life": ["Eating spicy food", "Praying at temples", "Riding crowded trains"]
+    },
+    "China": {
+        "Capital": "Beijing",
+        "Largest City": "Shanghai",
+        "Total Area": 9596961.0,
+        "Landmarks": ["Great Wall of China", "Terracotta Army", "Forbidden City"],
+        "Cultural Highlights": ["Kung Fu", "Chinese New Year", "Calligraphy"],
+        "Daily Life": ["Drinking tea", "Riding bicycles", "Celebrating festivals"]
+    },
+    "Australia": {
+        "Capital": "Canberra",
+        "Largest City": "Sydney",
+        "Total Area": 7692024.0,
+        "Landmarks": ["Sydney Opera House", "Great Barrier Reef", "Uluru"],
+        "Cultural Highlights": ["Aboriginal art", "Barbecue culture", "Aussie rules football"],
+        "Daily Life": ["Surfing", "Enjoying outdoor barbecues", "Playing cricket"]
+    },
+    "Japan": {
+        "Capital": "Tokyo",
+        "Largest City": "Tokyo",
+        "Total Area": 377975.0,
+        "Landmarks": ["Mount Fuji", "Tokyo Tower", "Kyoto Temples"],
+        "Cultural Highlights": ["Anime", "Sushi", "Cherry Blossoms"],
+        "Daily Life": ["Commuting by trains", "Eating sushi", "Practicing traditions"]
+    },
+    "Germany": {
+        "Capital": "Berlin",
+        "Largest City": "Berlin",
+        "Total Area": 357022.0,
+        "Landmarks": ["Brandenburg Gate", "Neuschwanstein Castle", "Oktoberfest"],
+        "Cultural Highlights": ["Classical music", "Beer culture", "Christmas markets"],
+        "Daily Life": ["Biking around cities", "Drinking beer", "Eating sausages"]
+    },
+    "United Kingdom": {
+        "Capital": "London",
+        "Largest City": "London",
+        "Total Area": 242495.0,
+        "Landmarks": ["Big Ben", "Tower of London", "Stonehenge"],
+        "Cultural Highlights": ["Shakespeare", "Afternoon tea", "The Beatles"],
+        "Daily Life": ["Drinking tea", "Watching football matches", "Visiting pubs"]
+    },
+    "France": {
+        "Capital": "Paris",
+        "Largest City": "Paris",
+        "Total Area": 551695.0,
+        "Landmarks": ["Eiffel Tower", "Louvre Museum", "Mont Saint-Michel"],
+        "Cultural Highlights": ["Wine", "Haute cuisine", "Fashion"],
+        "Daily Life": ["Eating baguettes", "Cycling in countryside", "Visiting art galleries"]
+    },
+    "Russia": {
+        "Capital": "Moscow",
+        "Largest City": "Moscow",
+        "Total Area": 17098242.0,
+        "Landmarks": ["Red Square", "St. Basil's Cathedral", "Lake Baikal"],
+        "Cultural Highlights": ["Ballet", "Vodka", "Russian literature"],
+        "Daily Life": ["Using public transport", "Eating borscht", "Celebrating long winters"]
+    },
+    "Italy": {
+        "Capital": "Rome",
+        "Largest City": "Rome",
+        "Total Area": 301340.0,
+        "Landmarks": ["Colosseum", "Leaning Tower of Pisa", "Venice Canals"],
+        "Cultural Highlights": ["Opera", "Pizza", "Renaissance art"],
+        "Daily Life": ["Drinking espresso", "Enjoying long meals", "Exploring old towns"]
+    },
+    "South Africa": {
+        "Capital": "Pretoria",
+        "Largest City": "Johannesburg",
+        "Total Area": 1221037.0,
+        "Landmarks": ["Table Mountain", "Kruger National Park", "Robben Island"],
+        "Cultural Highlights": ["Nelson Mandela's legacy", "Diverse wildlife", "Braai culture"],
+        "Daily Life": ["Going on safaris", "Celebrating heritage", "Eating biltong"]
+    },
+    "Egypt": {
+        "Capital": "Cairo",
+        "Largest City": "Cairo",
+        "Total Area": 1002450.0,
+        "Landmarks": ["Pyramids of Giza", "Sphinx", "Nile River"],
+        "Cultural Highlights": ["Hieroglyphics", "Ancient temples", "Coptic traditions"],
+        "Daily Life": ["Using river boats", "Visiting bazaars", "Drinking hibiscus tea"]
+    },
+    "Mexico": {
+        "Capital": "Mexico City",
+        "Largest City": "Mexico City",
+        "Total Area": 1964375.0,
+        "Landmarks": ["Chichen Itza", "Teotihuacan", "Copper Canyon"],
+        "Cultural Highlights": ["Mariachi music", "Day of the Dead", "Tacos"],
+        "Daily Life": ["Shopping in markets", "Dancing to music", "Celebrating fiestas"]
+    },
+    "Argentina": {
+        "Capital": "Buenos Aires",
+        "Largest City": "Buenos Aires",
+        "Total Area": 2780400.0,
+        "Landmarks": ["Iguazu Falls", "Perito Moreno Glacier", "Andes Mountains"],
+        "Cultural Highlights": ["Tango", "Mate tea", "Football"],
+        "Daily Life": ["Dancing tango", "Drinking mate", "Eating empanadas"]
+    },
+    "Spain": {
+        "Capital": "Madrid",
+        "Largest City": "Madrid",
+        "Total Area": 505990.0,
+        "Landmarks": ["Sagrada Familia", "Alhambra", "Plaza Mayor"],
+        "Cultural Highlights": ["Flamenco", "Tapas", "Bullfighting"],
+        "Daily Life": ["Taking siestas", "Eating tapas", "Watching soccer"]
+    },
+    "South Korea": {
+        "Capital": "Seoul",
+        "Largest City": "Seoul",
+        "Total Area": 100210.0,
+        "Landmarks": ["Gyeongbokgung Palace", "N Seoul Tower", "Jeju Island"],
+        "Cultural Highlights": ["K-pop", "Kimchi", "Taekwondo"],
+        "Daily Life": ["Riding subways", "Eating kimchi", "Watching K-dramas"]
+    },
+    "Turkey": {
+        "Capital": "Ankara",
+        "Largest City": "Istanbul",
+        "Total Area": 783356.0,
+        "Landmarks": ["Hagia Sophia", "Cappadocia", "Blue Mosque"],
+        "Cultural Highlights": ["Turkish coffee", "Ottoman history", "Whirling dervishes"],
+        "Daily Life": ["Drinking tea", "Shopping in bazaars", "Enjoying meze dishes"]
+    },
+    "New Zealand": {
+        "Capital": "Wellington",
+        "Largest City": "Auckland",
+        "Total Area": 268021.0,
+        "Landmarks": ["Milford Sound", "Hobbiton", "Mount Cook"],
+        "Cultural Highlights": ["Maori culture", "Adventure sports", "Kiwi bird"],
+        "Daily Life": ["Hiking in nature", "Eating lamb", "Exploring beaches"]
+    }
+}
